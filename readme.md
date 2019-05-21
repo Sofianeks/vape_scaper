@@ -1,12 +1,12 @@
-#vapescraper
+# vapescraper
 ce programme va chercher les informations des salons de la vape 
 
-#objectifs
+# objectifs
 - rapatrier les informations du site https://www.vapeshows.com/events
 - sauvegarder les informations dans un fichier csv 
 - utilisation du language python3 et pip3
 
-#demarches
+# demarches
 - installer git
 - installer vs code
 - joindre notre compte git hub a notre répertoire de developpement local
